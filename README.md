@@ -1,2 +1,3 @@
 
 A connected component (CC) is a maximal subgraph of an undirected graph in which there is a path from each vertex to any other vertex in the subgraph. In this homework we will implement and parallelize algorithms using PThreads to identify the number of connected components and the membership vector in large undirected graphs. Typical sequential approaches are BFS-based labeling and union-find; both are useful references, but here we will focus on a simple parallel-friendly label-propagation (coloring) algorithm.
+<img width="761" height="321" alt="Screenshot 2026-04-07 221846" src="https://github.com/user-attachments/assets/eaa34657-b333-4f57-b743-9603d0afe4d9" />
